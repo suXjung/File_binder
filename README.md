@@ -15,4 +15,5 @@ Using aut2exe
 
 
 # SUTAK
+Discord : 수탉#9033
 https://www.youtube.com/channel/UCRwBzjhENxzlhw9jWOKwKWw/videos
