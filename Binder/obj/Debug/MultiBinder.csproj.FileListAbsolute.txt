@@ -1,0 +1,19 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MultiBinder\MultiBinder\bin\Debug\MultiBinder.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MultiBinder\MultiBinder\bin\Debug\MultiBinder.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MultiBinder\MultiBinder\obj\Debug\MultiBinder.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MultiBinder\MultiBinder\obj\Debug\MultiBinder.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MultiBinder\MultiBinder\obj\Debug\MultiBinder.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MultiBinder\MultiBinder\obj\Debug\MultiBinder.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MultiBinder\MultiBinder\obj\Debug\MultiBinder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MultiBinder\MultiBinder\obj\Debug\MultiBinder.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MultiBinder\MultiBinder\obj\Debug\MultiBinder.pdb
+C:\Users\PC\Downloads\Autoit-File-Binder-master (1)\Autoit-File-Binder-master\MultiBinder\MultiBinder\bin\Debug\MultiBinder.exe
+C:\Users\PC\Downloads\Autoit-File-Binder-master (1)\Autoit-File-Binder-master\MultiBinder\MultiBinder\bin\Debug\MultiBinder.pdb
+C:\Users\PC\Downloads\Autoit-File-Binder-master (1)\Autoit-File-Binder-master\MultiBinder\MultiBinder\obj\Debug\MultiBinder.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\Autoit-File-Binder-master (1)\Autoit-File-Binder-master\MultiBinder\MultiBinder\obj\Debug\MultiBinder.Form1.resources
+C:\Users\PC\Downloads\Autoit-File-Binder-master (1)\Autoit-File-Binder-master\MultiBinder\MultiBinder\obj\Debug\MultiBinder.Properties.Resources.resources
+C:\Users\PC\Downloads\Autoit-File-Binder-master (1)\Autoit-File-Binder-master\MultiBinder\MultiBinder\obj\Debug\MultiBinder.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Autoit-File-Binder-master (1)\Autoit-File-Binder-master\MultiBinder\MultiBinder\obj\Debug\MultiBinder.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Autoit-File-Binder-master (1)\Autoit-File-Binder-master\MultiBinder\MultiBinder\obj\Debug\MultiBinder.exe
+C:\Users\PC\Downloads\Autoit-File-Binder-master (1)\Autoit-File-Binder-master\MultiBinder\MultiBinder\obj\Debug\MultiBinder.pdb
+C:\Users\PC\Downloads\Autoit-File-Binder-master (1)\Autoit-File-Binder-master\MultiBinder\MultiBinder\obj\Debug\MultiBinder.ABOUT_SUTAK_BINDER.resources
