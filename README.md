@@ -7,7 +7,8 @@ Combines files with various extensions into one file
 Using aut2exe
 
 # Preview
-![image](https://user-images.githubusercontent.com/101671122/160776944-d0cf68c8-81dd-424d-aac2-a242db7cbd38.png)
+![image](https://user-images.githubusercontent.com/101671122/160777064-f3466fd0-b054-4ad7-90de-9b78bcd1b2e1.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/101671122/160776981-65127ba4-d454-4707-8380-df9120cc09aa.png)
