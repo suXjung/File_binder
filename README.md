@@ -14,6 +14,9 @@ Using aut2exe
 ![image](https://user-images.githubusercontent.com/101671122/160776981-65127ba4-d454-4707-8380-df9120cc09aa.png)
 
 
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/101671122/160781305-c2150739-92b0-457c-a0d9-dec179738767.gif)
+
 # SUTAK
 Discord : 수탉#9033
 https://www.youtube.com/channel/UCRwBzjhENxzlhw9jWOKwKWw/videos
